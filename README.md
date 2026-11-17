@@ -66,12 +66,12 @@ seed는 0으로 고정했고, 실행 조건과 패키지 버전은 `run_manifest
 
 ## 현재 진행 상황
 
-MYE 단일 데이터셋에 대한 QC부터 배치 보정 비교까지 완료했다.
+MYE 단일 데이터셋에 대한 QC부터 배치 보정 비교까지 완료
 8개 암종 병합 데이터가 준비되는 대로 동일한 파이프라인을 재실행하여
-암종별 대식세포 하위 상태 구성을 비교할 예정이다.
+암종별 대식세포 하위 상태 구성을 비교할 예정
 
 ## 실행 환경
 
-Google Colab에서 작성했다. 최신 노트북은 아래에서 바로 열 수 있다.
+Google Colab에서 작성
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psh135230-design/BioAI_KU_2026/blob/main/1115_%EB%B0%B1%EC%88%98%ED%98%84.ipynb)
